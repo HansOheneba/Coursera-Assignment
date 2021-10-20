@@ -16,7 +16,7 @@ body{
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F; 
+	color: #525a9c; 
 }
 
 .center{
@@ -26,9 +26,10 @@ body{
 }
 .container
 {
-	background-color: grey;
+	background-color: rgb(87, 87, 87);
 }
 .text-center{
+	padding: 0px;
 	font-size: 30px;
 }
 
@@ -36,7 +37,7 @@ h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	color: #525a9c;
 }
 .navbar-brand{
 font-size: 30px;	
