@@ -6,8 +6,9 @@
 .navbar{
 
 border: none;
-background-color: rgba(49, 80, 80, 0.137);
+background-color: black;
 color: #61122F;
+text-align: center;
 }
 body{
 	background-color: #61122F;
